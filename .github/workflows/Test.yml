@@ -36,4 +36,4 @@ jobs:
           bash setup.sh
       - name: test
         run: |
-         bash dumpyara.sh "http://in-sysup-txdl.vivoglobal.com/upgrade/official/officialFiles/PD1928F_EX_A_1.70.5-update-full_1617846068.zip OR 1916" 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
+         bash dumpyara.sh "http://in-sysup-txdl.vivoglobal.com/upgrade/official/officialFiles/PD1928F_EX_A_1.70.5-update-full_1617846068.zip OR 1916" 
